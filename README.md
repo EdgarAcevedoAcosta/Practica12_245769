@@ -30,3 +30,11 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+
+Responder: ¿en qué se convirtió cada etiqueta del JSX? en un elemento de html
+Responder: si React es «sólo una biblioteca», ¿quién traduce el JSX? creo que lo traduce el js por que es como una extensión del javascript
+ ¿qué hace createRoot y qué hace render? el createRoot crea una ruta para que el react administre el dom dentro de un elemneto de html, y el render crea un componente react dentro de la carpeta raiz
+ ¿por qué el nombre de un componente empieza con mayúscula? para que lo identifique como un componente y no una etiqueta de html
+ ¿cuál es la diferencia entre escribir semestre="8" y semestre={8}? que una escribe un string (el primero) y el otro es un numero o algo especifico 
+ 
